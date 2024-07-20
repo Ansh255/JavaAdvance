@@ -1,0 +1,4 @@
+127.0.0.1 - - [09/Oct/2023:17:30:33 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:17:30:33 +0530] "GET /servlet/WEB-INF/classes/test/demo.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:17:30:33 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:17:30:44 +0530] "GET /servlet/WEB-INF/classes/test/demo.java HTTP/1.1" 404 992

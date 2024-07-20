@@ -1,0 +1,686 @@
+
+Feb 10, 2023 19:05:37.32 NEW SESSION
+Feb 10, 2023 19:05:37.32 [23684:29064:0210/190537.321:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+Feb 10, 2023 19:05:38.29 [23684:29064:0210/190538.292:ERROR:device_event_log_impl.cc(215)] [19:05:38.292] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 10, 2023 19:05:56.86 [12484:25328:0210/190556.864:ERROR:device_event_log_impl.cc(215)] [19:05:56.864] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 10, 2023 19:06:53.76 [12484:20816:0210/190653.765:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 10, 2023 19:10:39.11 [12484:16976:0210/191039.112:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 10, 2023 19:17:05.14 [12484:16976:0210/191705.147:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -7
+Feb 10, 2023 19:17:34.57 [12484:19764:0210/191734.569:ERROR:gcm_store_impl.cc(650)] LevelDB remove failed: NotFound: 
+Feb 10, 2023 19:17:34.57 [12484:16976:0210/191734.570:ERROR:mcs_client.cc(522)] GCM Update failed!
+Feb 10, 2023 19:26:43.22 [12484:16976:0210/192643.223:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 10, 2023 21:00:54.52 [12484:16976:0210/210054.524:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 10, 2023 21:00:54.60 [12484:16976:0210/210054.604:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 11, 2023 14:35:15.48 [12484:544:0211/143515.483:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 13, 2023 18:34:03.70 NEW SESSION
+Feb 13, 2023 18:34:03.70 [22016:39968:0213/183403.701:ERROR:device_event_log_impl.cc(215)] [18:34:03.700] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2023 18:34:03.78 [22016:32320:0213/183403.785:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 18:34:33.74 [22016:32320:0213/183433.744:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 18:35:01.30 [22016:40236:0213/183501.304:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 13, 2023 18:35:26.83 [22016:32320:0213/183526.830:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 18:36:55.36 [22016:32320:0213/183655.364:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 18:39:41.90 [22016:32320:0213/183941.908:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 18:45:34.36 [22016:32320:0213/184534.365:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 18:55:34.37 [22016:32320:0213/185534.377:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2023 19:05:34.38 [22016:32320:0213/190534.388:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 14, 2023 18:57:20.63 NEW SESSION
+Feb 14, 2023 18:57:20.63 [6168:7228:0214/185720.638:ERROR:device_event_log_impl.cc(215)] [18:57:20.638] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 18:57:20.64 [6168:36032:0214/185720.640:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 18:57:46.78 [6168:36032:0214/185746.787:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:21:48.25 [20040:2996:0214/192148.257:ERROR:device_event_log_impl.cc(215)] [19:21:48.257] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 19:21:48.25 [20040:2844:0214/192148.258:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:22:08.73 [20040:2844:0214/192208.733:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:22:46.24 [20040:40160:0214/192246.249:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 14, 2023 19:23:06.25 [20040:2844:0214/192306.251:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:24:28.98 [20040:2844:0214/192428.988:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:28:25.77 [20040:2844:0214/192825.775:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:34:32.56 [20040:2844:0214/193432.560:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:44:32.57 [20040:2844:0214/194432.573:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 19:50:45.08 [20040:2844:0214/195045.081:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 14, 2023 20:00:45.10 [20040:2844:0214/200045.100:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 18:01:34.58 [20040:26308:0215/180134.571:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 15, 2023 18:01:59.48 [20040:2844:0215/180159.483:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 15, 2023 18:02:02.55 [20040:2844:0215/180202.551:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 18:02:34.45 [20040:2844:0215/180234.449:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 18:02:43.02 [20040:2996:0215/180243.021:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 15, 2023 18:03:20.41 [20040:2844:0215/180320.416:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 19:19:13.28 [42256:39240:0215/191913.285:ERROR:device_event_log_impl.cc(215)] [19:19:13.285] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2023 19:20:11.17 [42256:39960:0215/192011.176:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 15, 2023 19:25:40.77 [42256:4128:0215/192540.773:ERROR:cert_issuer_source_aia.cc(134)] AiaRequest::OnFetchCompleted got error -7
+Feb 15, 2023 19:25:40.77 [42256:4128:0215/192540.773:ERROR:cert_verify_proc_builtin.cc(676)] CertVerifyProcBuiltin for seagence.com failed:
+Feb 15, 2023 19:25:40.77 ----- Certificate i=0 (CN=www.seagence.com) -----
+Feb 15, 2023 19:25:40.77 ERROR: No matching issuer found
+Feb 15, 2023 19:25:40.77 
+Feb 15, 2023 19:25:40.77 
+Feb 15, 2023 19:29:29.44 [42256:34624:0215/192929.440:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 19:29:33.63 [42256:34624:0215/192933.634:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2023 19:30:18.87 [42256:34624:0215/193018.872:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2023 19:31:45.93 [42256:34624:0215/193145.933:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2023 19:34:31.26 [24032:34020:0215/193431.267:ERROR:device_event_log_impl.cc(215)] [19:34:31.268] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2023 19:34:31.34 [24032:32092:0215/193431.345:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2023 19:34:56.75 [24032:32092:0215/193456.758:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2023 19:35:29.19 [24032:20644:0215/193529.198:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 15, 2023 19:35:56.23 [24032:32092:0215/193556.236:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2023 19:37:24.02 [24032:32092:0215/193724.023:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 16, 2023 19:35:35.97 NEW SESSION
+Feb 16, 2023 19:35:35.97 [31504:30960:0216/193535.972:ERROR:device_event_log_impl.cc(215)] [19:35:35.971] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 16, 2023 19:35:36.00 [31504:36528:0216/193536.002:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2023 19:35:36.00 [31504:36528:0216/193536.002:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 16, 2023 19:35:36.00 [31504:36528:0216/193536.002:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+Feb 16, 2023 19:35:36.00 [31504:36528:0216/193536.002:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+Feb 16, 2023 19:35:36.00 [31504:36528:0216/193536.003:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+Feb 16, 2023 19:36:00.09 [31504:36528:0216/193600.096:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2023 19:36:00.52 [31504:36528:0216/193600.521:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+Feb 16, 2023 19:36:01.41 [31504:36528:0216/193601.414:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+Feb 16, 2023 19:36:02.51 [31504:36528:0216/193602.510:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 16, 2023 19:36:04.25 [31504:36528:0216/193604.251:ERROR:registration_request.cc(248)] Registration URL fetching failed.
+Feb 16, 2023 19:36:32.91 [31504:45556:0216/193632.915:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Feb 21, 2023 19:39:57.77 NEW SESSION
+Feb 21, 2023 19:39:57.77 [20628:29348:0221/193957.769:ERROR:device_event_log_impl.cc(218)] [19:39:57.769] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 19:39:57.82 [20628:39468:0221/193957.826:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2023 19:40:20.02 [20628:39468:0221/194020.020:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2023 19:41:15.25 [20628:39468:0221/194115.253:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2023 19:42:39.75 [20628:39468:0221/194239.756:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2023 19:45:26.27 [20628:39468:0221/194526.279:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 18:03:51.19 [20628:39468:0222/180351.194:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 18:04:21.81 [20628:39468:0222/180421.817:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 18:05:02.14 [20628:29348:0222/180502.144:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 22, 2023 18:05:18.65 [20628:39468:0222/180518.651:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 18:06:42.72 [20628:39468:0222/180642.724:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 22, 2023 19:21:04.93 NEW SESSION
+Feb 22, 2023 19:21:04.93 [34180:9456:0222/192104.931:ERROR:device_event_log_impl.cc(218)] [19:21:04.931] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 19:21:04.93 [34180:20288:0222/192104.938:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:21:32.93 [34180:20288:0222/192132.934:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:22:23.89 [34180:20288:0222/192223.892:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:24:02.89 [34180:20288:0222/192402.889:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:27:43.49 [34180:20288:0222/192743.497:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:30:38.69 [44528:37108:0222/193038.696:ERROR:device_event_log_impl.cc(218)] [19:30:38.696] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 19:30:38.70 [44528:24140:0222/193038.699:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:31:02.89 [44528:24140:0222/193102.898:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:31:46.99 [44528:24140:0222/193146.999:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:32:18.98 [24828:30068:0222/193218.982:ERROR:device_event_log_impl.cc(218)] [19:32:18.982] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 19:32:18.98 [24828:45252:0222/193218.988:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:32:42.69 [24828:45252:0222/193242.689:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2023 19:33:13.03 [42784:19444:0222/193313.034:ERROR:device_event_log_impl.cc(218)] [19:33:13.034] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 19:33:13.03 [42784:29972:0222/193313.038:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 23, 2023 18:29:31.82 NEW SESSION
+Feb 23, 2023 18:29:31.82 [21892:2088:0223/182931.827:ERROR:device_event_log_impl.cc(218)] [18:29:31.826] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 18:29:31.82 [21892:40972:0223/182931.827:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 18:29:31.82 [21892:40972:0223/182931.827:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 18:29:58.75 [21892:40972:0223/182958.754:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 18:30:01.81 [21892:40972:0223/183001.814:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 18:30:02.91 [21892:2088:0223/183002.914:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 23, 2023 18:30:40.71 [21892:40972:0223/183040.714:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 18:30:56.33 [21892:40972:0223/183056.333:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 18:32:21.58 [21892:40972:0223/183221.581:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 18:32:53.79 [21892:40972:0223/183253.790:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 18:35:25.81 [21892:40972:0223/183525.815:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 18:36:09.85 [21892:40972:0223/183609.853:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 18:43:15.82 [21892:40972:0223/184315.826:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 18:45:38.43 [21892:40972:0223/184538.430:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 19:02:58.92 [30216:5992:0223/190258.920:ERROR:device_event_log_impl.cc(218)] [19:02:58.916] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 19:02:58.92 [30216:22080:0223/190258.923:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 19:02:58.92 [30216:22080:0223/190258.923:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 19:03:19.12 [30216:22080:0223/190319.129:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 19:03:22.24 [30216:22080:0223/190322.247:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 19:04:04.80 [30216:22080:0223/190404.802:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 19:04:06.05 [30216:22080:0223/190406.053:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 19:05:41.69 [30216:22080:0223/190541.693:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 19:06:02.60 [30216:22080:0223/190602.600:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 19:15:34.89 [30216:22080:0223/191534.896:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2023 19:15:34.89 [30216:22080:0223/191534.896:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Feb 23, 2023 20:42:02.24 [30216:8864:0223/204202.249:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2023 21:12:19.57 [30216:22080:0223/211219.577:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 23, 2023 21:12:21.34 [30216:16828:0223/211221.344:ERROR:gcm_store_impl.cc(650)] LevelDB remove failed: NotFound: 
+Feb 23, 2023 21:12:21.34 [30216:22080:0223/211221.344:ERROR:mcs_client.cc(523)] GCM Update failed!
+Feb 23, 2023 21:15:45.92 [30216:22080:0223/211545.929:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Mar 01, 2023 19:48:46.12 NEW SESSION
+Mar 01, 2023 19:48:46.12 [12800:13764:0301/194846.128:ERROR:device_event_log_impl.cc(218)] [19:48:46.128] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 19:50:31.10 [12800:21708:0301/195031.107:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 01, 2023 19:50:36.11 [12800:21708:0301/195036.115:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 01, 2023 20:00:57.37 [12800:21708:0301/200057.378:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 01, 2023 21:25:05.72 [12800:21708:0301/212505.727:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+
+Mar 03, 2023 19:29:15.59 NEW SESSION
+Mar 03, 2023 19:29:15.59 [24428:19608:0303/192915.595:ERROR:device_event_log_impl.cc(218)] [19:29:15.596] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 03, 2023 19:29:15.60 [24428:10832:0303/192915.604:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 19:29:43.66 [24428:10832:0303/192943.666:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 19:30:40.03 [24428:10832:0303/193040.033:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 19:32:03.50 [24428:10832:0303/193203.508:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 03, 2023 19:35:34.19 [24428:10832:0303/193534.188:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Mar 09, 2023 19:27:05.91 NEW SESSION
+Mar 09, 2023 19:27:05.91 [11140:10516:0309/192705.913:ERROR:device_event_log_impl.cc(218)] [19:27:05.914] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 09, 2023 19:27:05.92 [11140:18344:0309/192705.918:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 09, 2023 19:27:05.92 [11140:18344:0309/192705.919:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Mar 09, 2023 19:27:32.32 [11140:18344:0309/192732.328:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Mar 09, 2023 19:27:35.32 [11140:18344:0309/192735.325:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 09, 2023 19:28:28.39 [11140:18344:0309/192828.391:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 09, 2023 19:28:29.89 [11140:18344:0309/192829.893:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Mar 09, 2023 19:29:53.75 [11140:18344:0309/192953.755:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 09, 2023 19:30:21.75 [11140:18344:0309/193021.754:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Mar 09, 2023 19:33:34.35 [11140:18344:0309/193334.355:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 09, 2023 19:33:36.01 [11140:18344:0309/193336.013:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Mar 09, 2023 19:39:36.12 [11140:18344:0309/193936.121:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+Mar 09, 2023 19:39:45.43 [11140:18344:0309/193945.434:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 09, 2023 19:58:04.55 [38176:15044:0309/195804.557:ERROR:device_event_log_impl.cc(218)] [19:58:04.557] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 09, 2023 19:58:04.56 [38176:21444:0309/195804.564:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 09, 2023 19:58:04.56 [38176:21444:0309/195804.564:ERROR:checkin_request.cc(240)] Check-in request got net error: -106
+
+Mar 28, 2023 19:40:55.82 NEW SESSION
+Mar 28, 2023 19:40:55.82 [19020:5980:0328/194055.812:ERROR:device_event_log_impl.cc(222)] [19:40:55.817] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 28, 2023 19:40:55.83 [19020:22128:0328/194055.830:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 28, 2023 19:40:56.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 28, 2023 19:41:22.92 [19020:22128:0328/194122.922:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 28, 2023 19:42:14.86 [19020:22128:0328/194214.864:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 29, 2023 18:26:21.56 NEW SESSION
+Mar 29, 2023 18:26:21.56 [8548:29120:0329/182621.564:ERROR:device_event_log_impl.cc(222)] [18:26:21.564] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 18:26:21.57 [8548:28108:0329/182621.569:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 29, 2023 18:26:21.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 18:26:49.19 [8548:28108:0329/182649.198:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 29, 2023 18:26:54.31 [8548:29120:0329/182654.310:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 29, 2023 18:27:37.59 [8548:28108:0329/182737.593:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 02, 2023 19:56:18.74 NEW SESSION
+Apr 02, 2023 19:56:18.74 [33696:24668:0402/195618.743:ERROR:device_event_log_impl.cc(222)] [19:56:18.744] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 02, 2023 19:56:19.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 03, 2023 19:17:47.46 NEW SESSION
+Apr 03, 2023 19:17:47.46 [10452:26504:0403/191747.460:ERROR:device_event_log_impl.cc(222)] [19:17:47.460] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 19:17:47.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 19:26:37.51 [10452:32204:0403/192637.510:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:27:07.35 [10452:32204:0403/192707.352:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:28:03.72 [10452:32204:0403/192803.729:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:29:36.54 [10452:32204:0403/192936.543:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:33:22.22 [10452:32204:0403/193322.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:44:41.28 [10452:32204:0403/194441.289:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:54:41.30 [10452:32204:0403/195441.307:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:56:51.10 [10452:26504:0403/195651.109:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2023 20:50:14.32 [10452:32204:0403/205014.320:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2023 20:50:14.33 [10452:32204:0403/205014.336:ERROR:checkin_request.cc(241)] Check-in request got net error: -105
+
+Apr 05, 2023 19:17:30.52 NEW SESSION
+Apr 05, 2023 19:17:30.52 [21360:30020:0405/191730.527:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2023 19:17:30.69 [21360:30020:0405/191730.699:ERROR:device_event_log_impl.cc(222)] [19:17:30.699] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2023 19:17:30.73 [21360:30264:0405/191730.732:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 19:17:30.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2023 19:17:53.09 [21360:30264:0405/191753.095:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 19:18:45.93 [21360:30264:0405/191845.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 19:20:26.49 [21360:30264:0405/192026.499:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 19:23:30.52 [21360:30264:0405/192330.524:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 19:29:46.78 [21360:30264:0405/192946.784:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 19:39:46.78 [21360:30264:0405/193946.788:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 19:46:43.26 [21360:30020:0405/194643.262:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:43.39 [21360:30020:0405/194643.396:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:43.51 [21360:30020:0405/194643.515:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:43.78 [21360:30020:0405/194643.780:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:43.88 [21360:30020:0405/194643.886:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:43.99 [21360:30020:0405/194643.993:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:44.09 [21360:30020:0405/194644.094:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:44.20 [21360:30020:0405/194644.205:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:44.44 [21360:30020:0405/194644.442:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:44.58 [21360:30020:0405/194644.588:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:44.73 [21360:30020:0405/194644.735:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:44.83 [21360:30020:0405/194644.838:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:45.05 [21360:30020:0405/194645.052:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:45.22 [21360:30020:0405/194645.226:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:45.34 [21360:30020:0405/194645.343:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:45.46 [21360:30020:0405/194645.468:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:45.77 [21360:30020:0405/194645.779:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:45.93 [21360:30020:0405/194645.938:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:46.08 [21360:30020:0405/194646.084:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:46.40 [21360:30020:0405/194646.400:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:46.53 [21360:30020:0405/194646.533:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:46.66 [21360:30020:0405/194646.662:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:46.87 [21360:30020:0405/194646.869:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:47.08 [21360:30020:0405/194647.089:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:47.27 [21360:30020:0405/194647.276:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:47.39 [21360:30020:0405/194647.390:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:47.53 [21360:30020:0405/194647.532:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:47.94 [21360:30020:0405/194647.940:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:48.27 [21360:30020:0405/194648.271:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:48.37 [21360:30020:0405/194648.374:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:48.56 [21360:30020:0405/194648.562:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:49.41 [21360:30020:0405/194649.414:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:49.53 [21360:30020:0405/194649.537:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:49.87 [21360:30020:0405/194649.870:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:49.98 [21360:30020:0405/194649.981:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:50.41 [21360:30020:0405/194650.413:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:51.02 [21360:30020:0405/194651.028:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:51.43 [21360:30020:0405/194651.430:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:46:58.83 [21360:30020:0405/194658.838:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:02.22 [21360:30020:0405/194702.221:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:06.07 [21360:30020:0405/194706.073:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:06.60 [21360:30020:0405/194706.599:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:12.72 [21360:30020:0405/194712.719:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:12.89 [21360:30020:0405/194712.889:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:26.41 [21360:30020:0405/194726.417:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:41.32 [21360:30020:0405/194741.320:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:49.62 [21360:30020:0405/194749.622:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:53.56 [21360:30020:0405/194753.561:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:57.07 [21360:30020:0405/194757.073:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:47:59.36 [21360:30020:0405/194759.368:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:48:01.78 [21360:30020:0405/194801.786:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:48:05.55 [21360:30020:0405/194805.558:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:48:12.20 [21360:30020:0405/194812.200:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:48:12.67 [21360:30020:0405/194812.679:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:48:18.12 [21360:30020:0405/194818.123:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:48:19.50 [21360:30020:0405/194819.500:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+Apr 05, 2023 19:48:19.65 [21360:30020:0405/194819.655:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.528 s for first_image_paint 0.524 s
+
+Apr 06, 2023 21:39:45.06 NEW SESSION
+Apr 06, 2023 21:39:45.06 [27132:21276:0406/213945.060:ERROR:device_event_log_impl.cc(222)] [21:39:45.059] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 21:39:45.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 22:01:10.25 [27132:30924:0406/220110.257:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 06, 2023 22:04:38.59 [16968:23056:0406/220438.596:ERROR:device_event_log_impl.cc(222)] [22:04:38.591] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 22:04:38.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 07, 2023 18:30:30.39 NEW SESSION
+Apr 07, 2023 18:30:30.39 [8432:25184:0407/183030.391:ERROR:device_event_log_impl.cc(222)] [18:30:30.392] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 07, 2023 18:30:30.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 07, 2023 18:51:48.95 NEW SESSION
+Apr 07, 2023 18:51:48.95 [16416:14152:0407/185148.950:ERROR:device_event_log_impl.cc(222)] [18:51:48.950] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 07, 2023 18:51:49.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2023 19:02:24.85 [16416:14960:0407/190224.857:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 19:02:57.53 [16416:14960:0407/190257.529:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 19:04:02.46 [16416:14960:0407/190402.461:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 19:05:53.35 [16416:14960:0407/190553.353:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 19:08:45.08 [16416:14960:0407/190845.082:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 19:15:25.16 [16416:14960:0407/191525.159:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 20:49:00.60 [16416:14960:0407/204900.609:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 20:51:23.54 [16416:14152:0407/205123.549:ERROR:device_event_log_impl.cc(222)] [20:51:23.548] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 07, 2023 21:47:17.20 [24688:30012:0407/214717.202:ERROR:device_event_log_impl.cc(222)] [21:47:17.202] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 07, 2023 21:47:17.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 09, 2023 08:53:50.20 NEW SESSION
+Apr 09, 2023 08:53:50.20 [19148:29048:0409/085350.207:ERROR:device_event_log_impl.cc(222)] [08:53:50.207] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 08:53:50.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 09, 2023 19:05:53.95 NEW SESSION
+Apr 09, 2023 19:05:53.95 [23004:25280:0409/190553.949:ERROR:device_event_log_impl.cc(222)] [19:05:53.950] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 19:05:54.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 09, 2023 22:01:25.18 NEW SESSION
+Apr 09, 2023 22:01:25.18 [10476:35644:0409/220125.179:ERROR:device_event_log_impl.cc(222)] [22:01:25.179] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 22:01:25.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2023 22:06:28.12 [10476:35644:0409/220628.128:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 09, 2023 22:06:50.15 [10476:35644:0409/220650.149:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 09, 2023 22:07:17.35 [10476:35644:0409/220717.355:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 09, 2023 22:24:43.40 [10476:12692:0409/222443.405:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for pixel-us-east.rubiconproject.com failed:
+Apr 09, 2023 22:24:43.40 ----- Certificate i=0 (CN=*.rubiconproject.com,O=Magnite\, Inc.,L=Los Angeles,ST=California,C=US) -----
+Apr 09, 2023 22:24:43.40 ERROR: Time is after notAfter
+Apr 09, 2023 22:24:43.40 
+Apr 09, 2023 22:24:43.40 
+Apr 09, 2023 22:30:36.91 [3752:32476:0409/223036.915:ERROR:device_event_log_impl.cc(222)] [22:30:36.915] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 22:30:37.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 10, 2023 18:20:49.52 NEW SESSION
+Apr 10, 2023 18:20:49.52 [33672:25368:0410/182049.519:ERROR:device_event_log_impl.cc(222)] [18:20:49.518] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 18:20:49.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2023 18:22:25.21 [33672:29272:0410/182225.217:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 10, 2023 18:28:30.08 [33672:29272:0410/182830.081:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:28:39.10 [33672:29272:0410/182839.104:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:28:43.79 [33672:35340:0410/182843.797:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 10, 2023 18:29:26.59 [33672:29272:0410/182926.597:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:29:41.00 [33672:28496:0410/182941.004:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Apr 10, 2023 19:09:54.81 NEW SESSION
+Apr 10, 2023 19:09:54.81 [604:27192:0410/190954.814:ERROR:device_event_log_impl.cc(222)] [19:09:54.815] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 19:09:54.92 [604:16304:0410/190954.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 19:09:55.06 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2023 19:10:19.89 [604:16304:0410/191019.893:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 19:11:17.12 [604:16304:0410/191117.123:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 19:12:37.63 [604:16304:0410/191237.634:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 19:15:29.87 [604:16304:0410/191529.878:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 19:21:11.03 [604:16304:0410/192111.038:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 20:50:19.32 [604:16304:0410/205019.328:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Apr 11, 2023 18:48:20.23 NEW SESSION
+Apr 11, 2023 18:48:20.23 [13976:23220:0411/184820.230:ERROR:device_event_log_impl.cc(222)] [18:48:20.230] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 18:48:20.23 [13976:12824:0411/184820.236:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 18:48:20.23 [13976:12824:0411/184820.237:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 11, 2023 18:48:20.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 18:48:41.35 [13976:12824:0411/184841.356:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 18:48:49.75 [13976:12824:0411/184849.750:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 11, 2023 18:48:52.52 [13976:23220:0411/184852.528:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 11, 2023 18:49:36.14 [13976:12824:0411/184936.144:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 18:49:48.82 [13976:12824:0411/184948.827:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 11, 2023 19:14:49.39 [12856:17140:0411/191449.395:ERROR:device_event_log_impl.cc(222)] [19:14:49.395] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 19:14:49.40 [12856:26368:0411/191449.405:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:14:49.40 [12856:26368:0411/191449.406:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 11, 2023 19:14:49.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 19:15:11.54 [12856:26368:0411/191511.542:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:15:13.95 [12856:26368:0411/191513.952:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 11, 2023 19:15:56.36 [12856:26368:0411/191556.364:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:15:56.86 [12856:26368:0411/191556.863:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 11, 2023 19:17:38.33 [12856:26368:0411/191738.338:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 11, 2023 19:17:45.77 [12856:26368:0411/191745.772:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:44:16.53 [12856:26368:0411/194416.535:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:44:50.51 [12856:26368:0411/194450.512:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:45:49.66 [12856:26368:0411/194549.668:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:47:47.52 [12856:26368:0411/194747.525:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:51:28.29 [16036:21748:0411/195128.289:ERROR:device_event_log_impl.cc(222)] [19:51:28.290] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 19:51:28.31 [16036:14648:0411/195128.319:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 19:51:28.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 20:00:27.55 [16036:14648:0411/200027.556:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 20:52:20.02 [16036:14648:0411/205220.021:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 20:52:20.45 [16036:14648:0411/205220.334:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 12, 2023 19:33:15.96 NEW SESSION
+Apr 12, 2023 19:33:15.96 [26436:11076:0412/193315.961:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Apr 12, 2023 19:33:16.06 [26436:23588:0412/193316.061:ERROR:disk_cache.cc(205)] Unable to create cache
+Apr 12, 2023 19:33:16.06 [26436:23588:0412/193316.061:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+Apr 12, 2023 19:33:16.21 Opening in existing browser session.
+Apr 12, 2023 19:33:19.29 [26436:23588:0412/193319.297:ERROR:device_event_log_impl.cc(222)] [19:33:19.298] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 19:33:19.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 19:36:30.40 [26436:20924:0412/193630.402:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 12, 2023 19:38:45.48 [26436:23588:0412/193845.484:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 12, 2023 19:38:45.62 [26436:23588:0412/193845.628:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:45.74 [26436:23588:0412/193845.743:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:45.84 [26436:23588:0412/193845.848:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:45.96 [26436:23588:0412/193845.966:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:46.17 [26436:23588:0412/193846.173:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:46.28 [26436:23588:0412/193846.285:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:46.40 [26436:23588:0412/193846.405:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:46.51 [26436:23588:0412/193846.512:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:46.61 [26436:23588:0412/193846.618:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:46.75 [26436:23588:0412/193846.759:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:46.86 [26436:23588:0412/193846.867:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:47.17 [26436:23588:0412/193847.171:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:47.29 [26436:23588:0412/193847.293:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:47.62 [26436:23588:0412/193847.627:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:47.88 [26436:23588:0412/193847.879:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:48.16 [26436:23588:0412/193848.163:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:48.34 [26436:23588:0412/193848.341:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:48.65 [26436:23588:0412/193848.658:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:49.20 [26436:23588:0412/193849.202:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:49.41 [26436:23588:0412/193849.419:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:49.59 [26436:23588:0412/193849.599:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:50.19 [26436:23588:0412/193850.191:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:50.34 [26436:23588:0412/193850.342:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:50.87 [26436:23588:0412/193850.879:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:51.78 [26436:23588:0412/193851.788:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:51.89 [26436:23588:0412/193851.894:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:52.00 [26436:23588:0412/193852.003:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:52.12 [26436:23588:0412/193852.120:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:52.23 [26436:23588:0412/193852.235:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:52.46 [26436:23588:0412/193852.462:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:52.57 [26436:23588:0412/193852.578:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:52.84 [26436:23588:0412/193852.846:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:53.14 [26436:23588:0412/193853.142:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:53.94 [26436:23588:0412/193853.948:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:54.84 [26436:23588:0412/193854.844:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:38:57.54 [26436:23588:0412/193857.539:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:39:14.80 [26436:23588:0412/193914.801:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:39:16.69 [26436:23588:0412/193916.698:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:39:16.80 [26436:23588:0412/193916.807:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:39:18.49 [26436:23588:0412/193918.491:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:39:19.06 [26436:23588:0412/193919.066:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:39:57.44 [26436:23588:0412/193957.448:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:46:13.88 [26436:23588:0412/194613.888:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.241 s for first_image_paint 0.232 s
+Apr 12, 2023 19:49:15.74 [26436:23588:0412/194915.742:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 12, 2023 19:49:23.02 [26436:12784:0412/194923.029:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for pixel-us-east.rubiconproject.com failed:
+Apr 12, 2023 19:49:23.03 ----- Certificate i=0 (CN=*.rubiconproject.com,O=Magnite\, Inc.,L=Los Angeles,ST=California,C=US) -----
+Apr 12, 2023 19:49:23.03 ERROR: Time is after notAfter
+Apr 12, 2023 19:49:23.03 
+Apr 12, 2023 19:49:23.03 
+
+Apr 13, 2023 19:18:12.16 NEW SESSION
+Apr 13, 2023 19:18:12.16 [19992:19636:0413/191812.158:ERROR:device_event_log_impl.cc(222)] [19:18:12.159] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 19:18:12.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2023 19:18:58.31 [19992:19636:0413/191858.316:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 13, 2023 19:19:12.71 [19992:19636:0413/191912.711:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 13, 2023 19:21:19.04 [19992:19636:0413/192119.040:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 13, 2023 19:22:05.46 [19992:19636:0413/192205.461:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 13, 2023 19:30:11.39 [19992:15812:0413/193011.392:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+
+Apr 17, 2023 20:20:44.06 NEW SESSION
+Apr 17, 2023 20:20:44.06 [30404:28560:0417/202044.060:ERROR:device_event_log_impl.cc(222)] [20:20:44.060] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 17, 2023 20:20:44.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 18, 2023 19:09:33.14 NEW SESSION
+Apr 18, 2023 19:09:33.14 [20652:24872:0418/190933.145:ERROR:device_event_log_impl.cc(222)] [19:09:33.145] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 18, 2023 19:09:33.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 18, 2023 19:10:07.41 [20652:40332:0418/191007.417:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 18, 2023 19:35:56.03 [20652:18308:0418/193556.035:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 18, 2023 19:41:21.01 [20652:18308:0418/194121.010:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Apr 18, 2023 19:42:27.64 [20652:18308:0418/194227.643:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 18, 2023 19:46:48.05 [20652:18308:0418/194648.058:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Apr 20, 2023 19:26:40.52 NEW SESSION
+Apr 20, 2023 19:26:40.52 [13772:3140:0420/192640.521:ERROR:device_event_log_impl.cc(222)] [19:26:40.521] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 19:26:40.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 19:49:08.42 [16808:20036:0420/194908.423:ERROR:device_event_log_impl.cc(222)] [19:49:08.423] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 19:49:08.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 19:53:40.43 [16808:18764:0420/195340.435:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Apr 20, 2023 20:17:37.60 [16808:18764:0420/201737.602:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Apr 20, 2023 21:32:44.87 [16808:18764:0420/213244.873:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+
+Apr 24, 2023 19:07:59.82 NEW SESSION
+Apr 24, 2023 19:07:59.82 [14000:19644:0424/190759.825:ERROR:device_event_log_impl.cc(222)] [19:07:59.825] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 24, 2023 19:08:00.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 25, 2023 20:18:00.22 NEW SESSION
+Apr 25, 2023 20:18:00.22 [26248:25232:0425/201800.224:ERROR:device_event_log_impl.cc(222)] [20:18:00.223] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 25, 2023 20:18:00.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 27, 2023 18:05:00.89 NEW SESSION
+Apr 27, 2023 18:05:00.89 [16324:10848:0427/180500.889:ERROR:device_event_log_impl.cc(222)] [18:05:00.888] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 27, 2023 18:05:00.98 [16324:6352:0427/180500.983:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Apr 27, 2023 18:05:01.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 27, 2023 18:05:16.94 [6896:21548:0427/180516.943:ERROR:device_event_log_impl.cc(222)] [18:05:16.943] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 27, 2023 18:05:16.99 [6896:27448:0427/180516.999:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Apr 27, 2023 18:05:17.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 01, 2023 18:50:22.70 NEW SESSION
+May 01, 2023 18:50:22.70 Opening in existing browser session.
+May 01, 2023 18:50:25.55 [9084:560:0501/185025.554:ERROR:device_event_log_impl.cc(222)] [18:50:25.554] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 01, 2023 18:50:25.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 01, 2023 21:27:14.76 NEW SESSION
+May 01, 2023 21:27:14.76 [17104:12032:0501/212714.756:ERROR:device_event_log_impl.cc(222)] [21:27:14.757] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 01, 2023 21:27:14.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 02, 2023 19:42:08.00 NEW SESSION
+May 02, 2023 19:42:08.00 [18804:7472:0502/194208.006:ERROR:device_event_log_impl.cc(222)] [19:42:08.005] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 02, 2023 19:42:08.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 02, 2023 19:54:47.15 [16932:19180:0502/195447.152:ERROR:device_event_log_impl.cc(222)] [19:54:47.152] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 02, 2023 19:54:47.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 02, 2023 20:18:31.61 [16932:17176:0502/201831.611:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+May 02, 2023 20:18:35.38 [16932:17176:0502/201835.389:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+May 02, 2023 22:12:10.96 NEW SESSION
+May 02, 2023 22:12:10.96 [8116:22180:0502/221210.960:ERROR:device_event_log_impl.cc(222)] [22:12:10.960] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 02, 2023 22:12:11.12 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 02, 2023 22:15:08.25 [18284:2288:0502/221508.253:ERROR:device_event_log_impl.cc(222)] [22:15:08.253] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 02, 2023 22:15:08.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 02, 2023 22:17:46.01 [18284:13500:0502/221746.013:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+May 03, 2023 19:06:02.20 NEW SESSION
+May 03, 2023 19:06:02.20 [18688:22424:0503/190602.205:ERROR:device_event_log_impl.cc(222)] [19:06:02.206] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 03, 2023 19:06:02.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 03, 2023 19:48:07.32 NEW SESSION
+May 03, 2023 19:48:07.32 [9376:14004:0503/194807.324:ERROR:device_event_log_impl.cc(222)] [19:48:07.324] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 03, 2023 19:48:07.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 03, 2023 19:51:06.48 [3860:24604:0503/195106.479:ERROR:device_event_log_impl.cc(222)] [19:51:06.479] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 03, 2023 19:51:06.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 03, 2023 20:20:43.11 NEW SESSION
+May 03, 2023 20:20:43.11 [9208:1644:0503/202043.108:ERROR:device_event_log_impl.cc(222)] [20:20:43.108] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 03, 2023 20:20:43.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 03, 2023 20:21:26.04 [9208:25032:0503/202126.047:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+May 03, 2023 21:03:51.90 [9208:25032:0503/210351.906:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+May 03, 2023 21:03:51.90 [9208:19844:0503/210351.907:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+May 03, 2023 21:03:56.62 [9208:25032:0503/210356.626:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -331
+May 03, 2023 21:10:10.82 [9208:25032:0503/211010.818:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+May 04, 2023 18:19:35.60 NEW SESSION
+May 04, 2023 18:19:35.60 [30556:11292:0504/181935.603:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+May 10, 2023 19:34:11.81 NEW SESSION
+May 10, 2023 19:34:11.81 [14088:22656:0510/191644.080:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 10, 2023 19:34:11.82 [14088:22656:0510/193411.822:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+May 10, 2023 20:03:24.57 [14088:22656:0510/200324.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2023 20:03:24.65 [14088:22656:0510/200324.653:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 11, 2023 19:47:53.22 NEW SESSION
+May 11, 2023 19:47:53.22 [4492:24924:0511/190107.121:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 11, 2023 19:47:53.28 [4492:24924:0511/194753.283:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+May 19, 2023 18:13:01.11 NEW SESSION
+May 19, 2023 18:13:01.11 [32928:36352:0519/181301.115:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+
+May 22, 2023 19:22:21.35 NEW SESSION
+May 22, 2023 19:22:21.35 [41548:46840:0522/190420.236:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 22, 2023 19:22:30.23 [41548:46840:0522/192230.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 22, 2023 19:35:53.52 [41548:46840:0522/193553.528:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 22, 2023 19:43:49.61 [41548:46840:0522/194349.613:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 23, 2023 06:55:15.92 [41548:46840:0523/065515.919:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 23, 2023 06:55:15.92 [41548:43788:0523/065515.920:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+May 24, 2023 18:51:20.92 NEW SESSION
+May 24, 2023 18:53:28.79 [37816:46056:0524/185120.925:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 24, 2023 19:19:21.10 [37816:46056:0524/191921.107:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 24, 2023 19:30:49.28 [37816:46056:0524/193049.288:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 24, 2023 19:31:10.52 [37816:46056:0524/193110.524:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 24, 2023 21:25:44.75 [37816:46056:0524/212544.663:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jun 12, 2023 18:55:02.49 NEW SESSION
+Jun 12, 2023 18:55:02.49 [22936:23348:0612/185502.491:ERROR:interface_endpoint_client.cc(697)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 12, 2023 19:16:00.81 [22936:24980:0612/191600.819:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 12, 2023 20:29:21.88 [22936:24980:0612/202921.885:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jun 14, 2023 19:08:04.27 NEW SESSION
+Jun 14, 2023 19:08:04.27 [42000:22156:0614/190804.272:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+
+Jun 29, 2023 18:29:46.69 NEW SESSION
+Jun 29, 2023 18:29:46.69 [14072:11572:0629/182946.690:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2023 18:30:12.41 [14072:11572:0629/183012.415:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2023 18:31:02.18 [14072:11572:0629/183102.181:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2023 18:32:53.42 [14072:11572:0629/183253.423:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jul 03, 2023 19:07:27.08 NEW SESSION
+Jul 03, 2023 19:07:27.08 [10332:12780:0703/190727.086:ERROR:network_sandbox.cc(76)] Failed to delete file C:\Users\anshg\AppData\Local\Google\Chrome\User Data\Default\Cookies: The process cannot access the file because it is being used by another process. (0x20)
+Jul 03, 2023 19:07:27.09 [10332:5176:0703/190727.092:ERROR:network_service_instance_impl.cc(279)] Encountered error while migrating network context data or granting sandbox access for C:\Users\anshg\AppData\Local\Google\Chrome\User Data\Default\Network. Result: 4: The operation completed successfully. (0x0)
+Jul 03, 2023 19:08:44.70 [8064:15868:0703/190844.700:ERROR:network_sandbox.cc(76)] Failed to delete file C:\Users\anshg\AppData\Local\Google\Chrome\User Data\Default\Cookies: The process cannot access the file because it is being used by another process. (0x20)
+Jul 03, 2023 19:08:44.70 [8064:27744:0703/190844.701:ERROR:network_service_instance_impl.cc(279)] Encountered error while migrating network context data or granting sandbox access for C:\Users\anshg\AppData\Local\Google\Chrome\User Data\Default\Network. Result: 4: The operation completed successfully. (0x0)
+
+Jul 04, 2023 18:50:38.67 NEW SESSION
+Jul 04, 2023 18:50:38.67 [26244:14612:0704/184808.489:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 04, 2023 19:59:28.30 NEW SESSION
+Jul 04, 2023 19:59:28.30 [20348:23516:0704/195918.257:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 04, 2023 20:05:45.43 [20348:23516:0704/200545.432:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 04, 2023 20:06:48.06 [20348:23516:0704/200648.055:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 04, 2023 20:07:49.96 [20348:23516:0704/200749.962:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 04, 2023 20:08:25.08 [20348:23516:0704/200825.085:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 06, 2023 21:48:53.04 NEW SESSION
+Jul 06, 2023 21:48:53.04 [8660:21080:0706/201917.513:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 07, 2023 19:17:56.95 NEW SESSION
+Jul 07, 2023 19:17:56.95 [19032:12760:0707/191756.951:ERROR:interface_endpoint_client.cc(697)] Message 1 rejected by interface blink.mojom.WidgetHost
+Jul 07, 2023 19:21:26.09 [19032:13232:0707/192126.099:ERROR:cert_verify_proc_builtin.cc(702)] CertVerifyProcBuiltin for cookie-sync.api.soundcast.fm failed:
+Jul 07, 2023 19:21:26.10 ----- Certificate i=0 (CN=*.api.soundcast.fm) -----
+Jul 07, 2023 19:21:26.10 ERROR: Time is after notAfter
+Jul 07, 2023 19:21:26.10 
+Jul 07, 2023 19:21:26.10 
+Jul 07, 2023 19:43:57.47 [19032:1708:0707/194357.471:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 07, 2023 20:30:32.27 [19032:1708:0707/203032.270:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jul 07, 2023 23:08:39.50 NEW SESSION
+Jul 07, 2023 23:08:39.50 [5084:24272:0707/230839.503:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 07, 2023 23:13:31.79 [5084:24272:0707/231331.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Jul 10, 2023 18:18:46.29 NEW SESSION
+Jul 10, 2023 18:18:46.29 [24764:14232:0710/181744.965:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 10, 2023 18:19:59.69 [24764:14232:0710/181959.696:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2023 18:20:49.16 [24764:14232:0710/182049.163:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 10, 2023 18:20:51.17 [24764:14232:0710/182051.177:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2023 18:20:55.04 [24764:14232:0710/182055.042:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2023 18:20:57.89 [24764:14232:0710/182057.891:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2023 18:21:28.51 [24764:14232:0710/182128.518:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 10, 2023 18:21:29.60 [24764:18776:0710/182129.606:ERROR:device_event_log_impl.cc(222)] [18:21:29.607] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 10, 2023 18:21:33.09 [24764:14232:0710/182133.097:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jul 10, 2023 18:40:58.02 NEW SESSION
+Jul 10, 2023 18:40:58.02 [25816:24048:0710/184058.023:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 10, 2023 18:51:00.28 [25816:24048:0710/185100.285:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 10, 2023 19:50:06.32 [25816:24048:0710/195006.325:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Jul 26, 2023 19:15:02.51 NEW SESSION
+Jul 26, 2023 19:15:02.52 [5784:24540:0726/191502.458:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+Aug 22, 2023 18:17:30.81 NEW SESSION
+Aug 22, 2023 18:17:30.81 [31236:3792:0822/181730.810:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:17:51.20 [31236:3792:0822/181751.201:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:18:40.55 [31236:3792:0822/181840.554:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:20:31.14 [31236:3792:0822/182031.142:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:23:34.42 [31236:3792:0822/182334.423:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:24:23.51 [31236:3792:0822/182423.518:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 22, 2023 18:24:24.47 [31236:14480:0822/182424.472:ERROR:device_event_log_impl.cc(222)] [18:24:24.472] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 22, 2023 18:24:25.06 [31236:3792:0822/182425.069:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:46:05.14 [31236:3792:0822/184605.143:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:46:29.95 [31236:3792:0822/184629.957:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:50:25.57 [31236:3792:0822/185025.578:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:50:57.48 [31236:3792:0822/185057.482:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:51:54.99 [31236:3792:0822/185154.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 22, 2023 18:58:54.50 [31236:12708:0822/185854.502:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for beacons.gcp.gvt2.com failed:
+Aug 22, 2023 18:58:54.50 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 22, 2023 18:58:54.50 ERROR: Time is after notAfter
+Aug 22, 2023 18:58:54.50 
+Aug 22, 2023 18:58:54.50 
+
+Aug 24, 2023 18:44:55.95 NEW SESSION
+Aug 24, 2023 18:44:55.95 [13332:12556:0824/184234.331:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Aug 25, 2023 19:00:11.79 NEW SESSION
+Aug 25, 2023 19:00:11.79 [19332:13072:0825/190011.797:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Aug 31, 2023 18:36:44.96 NEW SESSION
+Aug 31, 2023 18:36:44.96 [17888:21900:0831/183626.952:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 31, 2023 18:53:26.95 [17888:21900:0831/184926.969:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 31, 2023 19:09:38.86 [17888:21900:0831/190938.864:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 31, 2023 19:33:48.83 [17888:21900:0831/193348.833:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Sep 01, 2023 16:33:51.91 NEW SESSION
+Sep 01, 2023 16:33:51.91 [11132:9808:0901/161713.113:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Sep 02, 2023 12:30:15.55 NEW SESSION
+Sep 02, 2023 12:30:15.55 [3256:23620:0902/123015.554:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 02, 2023 12:30:41.55 [3256:23620:0902/123041.553:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 02, 2023 12:30:46.65 [3256:15788:0902/123046.659:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Sep 02, 2023 12:31:33.57 [3256:23620:0902/123133.578:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 02, 2023 12:41:04.53 [5260:11756:0902/124104.532:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2023 12:42:09.98 [5260:11756:0902/124209.986:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 02, 2023 13:06:39.97 [5260:11756:0902/130639.976:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 02, 2023 13:06:54.62 [5260:11756:0902/130654.623:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 02, 2023 13:10:09.96 [5260:11756:0902/131009.962:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 02, 2023 13:17:16.05 [5260:11756:0902/131716.054:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Sep 02, 2023 13:17:17.84 [5260:11756:0902/131717.840:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Sep 04, 2023 18:20:24.90 NEW SESSION
+Sep 04, 2023 18:20:24.90 [13700:10016:0904/182024.903:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 04, 2023 18:22:48.98 [13700:10016:0904/182248.987:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 18:23:12.18 [13700:10016:0904/182312.181:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Sep 04, 2023 18:25:55.72 [13700:10016:0904/182555.723:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 18:26:00.72 [13700:10016:0904/182600.727:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 18:29:55.94 [13700:10016:0904/182955.949:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Apr 24, 2024 20:28:23.89 NEW SESSION
+Apr 24, 2024 20:28:23.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 24, 2024 20:28:23.91 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+
+May 10, 2024 07:56:14.99 NEW SESSION
+May 10, 2024 07:56:14.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 10, 2024 07:57:20.05 Created TensorFlow Lite XNNPACK delegate for CPU.

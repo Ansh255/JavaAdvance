@@ -1,0 +1,4 @@
+manual bean creation (jstl , jsa)
+
+service layer 
+

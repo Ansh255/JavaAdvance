@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;SpringBootCRUD/src/main/java/com.demo.model&apos;&#x0D;&#x0A;- Original project: &apos;Spring_ForiegnKey&apos;&#x0D;&#x0A;- Destination element: &apos;SpringBootCRUD/src/main/java/com.demo.model&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.VO.LoginVO.java&#x0D;&#x0A;     com.VO.RegVO.java" description="Copy compilation units" destination="=SpringBootCRUD/src\/main\/java&lt;com.demo.model" element1="/src&lt;com.VO{LoginVO.java" element2="/src&lt;com.VO{RegVO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1690464990606" units="2" version="1.0"/>
+</session>

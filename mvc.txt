@@ -1,0 +1,32 @@
+problems that why we are using mvc :
+1)DataDuplication
+2)DataRedundancy
+3)DataSecurity
+4)DataLayer ------------------------------------------>>>>>>>>>>>>Missing a central layer for comman working 
+5)DataBase
+
+src
+	controller           -------------------------(servlet File)
+	Vo                   -------------------------(Java ClassObject)
+	Dao			   -------------------------(DBA Query)
+webContent
+	.jsp
+
+
+
+user -> uses ----controller ->manipulates ----Model ->updates ----view ->user
+
+
+
+model     view       Controller
+Java  	jsp		servlet
+class
+objects
+Dao
+vo
+
+
+
+MyQuestion to reserach
+data cashing 
+memory management 

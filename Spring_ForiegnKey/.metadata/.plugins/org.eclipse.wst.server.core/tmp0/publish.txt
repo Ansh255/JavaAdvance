@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Tue Jul 04 19:40:25 IST 2023
+org.eclipse.jst.jee.server\:/binary\:D\:\\java_jsp\\SpringNEWUD\\WebContent\\WEB-INF\\lib\\spring-web-4.0.3.RELEASE.jar=WEB-INF/lib/spring-web-4.0.3.RELEASE.jar

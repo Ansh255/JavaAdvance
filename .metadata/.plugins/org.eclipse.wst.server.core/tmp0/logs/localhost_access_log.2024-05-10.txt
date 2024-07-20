@@ -1,0 +1,11 @@
+127.0.0.1 - - [10/May/2024:07:56:11 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:56:13 +0530] "GET /servlet/register.jsp HTTP/1.1" 200 504
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:56:13 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:56:29 +0530] "GET /servlet/save?fn=ab&ln=bc&user=ca&pass=cd HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:56:29 +0530] "GET /servlet/login.jsp HTTP/1.1" 200 423
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:56:36 +0530] "GET /servlet/verify?Username=ca&Password=cd HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:56:36 +0530] "GET /servlet/welcome.jsp HTTP/1.1" 200 285
+127.0.0.1 - - [10/May/2024:07:57:16 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:57:18 +0530] "GET /servlet/startSearch.jsp HTTP/1.1" 200 371
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:57:18 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [10/May/2024:07:57:23 +0530] "GET /servlet/search?one=first HTTP/1.1" 200 803
